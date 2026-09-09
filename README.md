@@ -1,11 +1,11 @@
-# Elektrotechnik Jakobsen – Website-Vorschau
+# Elektrotechnik Jakobsen – Website
 
-## Online in zwei Klicks
+## Netlify (empfohlen)
 
-1. Öffne: https://github.com/Mo101991/elektro-jakobsen-web/settings/pages
-2. Source: Deploy from a branch → main → / (root) → Save
+1. ZIP `website`-Inhalt bereithalten (Bilder + PDF).
+2. Entweder Drop: https://app.netlify.com/drop
+   Dateien aus dem Ordner `website` auf die Seite ziehen.
+3. Oder aus diesem Repo:
+   https://app.netlify.com/start/deploy?repository=https://github.com/Mo101991/elektro-jakobsen-web
 
-Live-URL danach:
-https://mo101991.github.io/elektro-jakobsen-web/
-
-ZIP mit Bildern und PDF in `img/` und `downloads/` hier hochladen.
+Netlify gibt dann eine URL wie `https://irgendwas.netlify.app`.
